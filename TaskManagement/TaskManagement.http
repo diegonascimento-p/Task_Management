@@ -1,0 +1,4 @@
+@TaskManagement_HostAddress = https://localhost:7019/Task/Index
+
+GET {{TaskManagement_HostAddress}}
+###
